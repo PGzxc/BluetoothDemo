@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothDemo</string>
+    <string name="open_bluetooth">开启蓝牙</string>
+    <string name="close_bluetooth">关闭蓝牙</string>
+</resources>
